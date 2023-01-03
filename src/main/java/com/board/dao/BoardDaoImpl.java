@@ -2,7 +2,6 @@ package com.board.dao;
 
 import com.board.domain.BoardDto;
 import com.board.domain.SearchCondition;
-import com.fastcampus.ch4.domain.*;
 import org.apache.ibatis.session.*;
 import org.springframework.beans.factory.annotation.*;
 import org.springframework.stereotype.*;

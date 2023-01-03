@@ -1,7 +1,6 @@
 package com.board.dao;
 
 import com.board.domain.CommentDto;
-import com.fastcampus.ch4.domain.*;
 import org.apache.ibatis.annotations.*;
 import org.apache.ibatis.session.*;
 import org.springframework.beans.factory.annotation.*;

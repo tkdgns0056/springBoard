@@ -3,8 +3,6 @@ package com.board.service;
 import com.board.dao.BoardDao;
 import com.board.domain.BoardDto;
 import com.board.domain.SearchCondition;
-import com.fastcampus.ch4.dao.*;
-import com.fastcampus.ch4.domain.*;
 import org.springframework.beans.factory.annotation.*;
 import org.springframework.stereotype.*;
 

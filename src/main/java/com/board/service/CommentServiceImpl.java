@@ -3,8 +3,6 @@ package com.board.service;
 import com.board.dao.BoardDao;
 import com.board.dao.CommentDao;
 import com.board.domain.CommentDto;
-import com.fastcampus.ch4.dao.*;
-import com.fastcampus.ch4.domain.*;
 import org.springframework.stereotype.*;
 import org.springframework.transaction.annotation.*;
 

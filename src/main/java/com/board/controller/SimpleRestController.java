@@ -1,7 +1,6 @@
 package com.board.controller;
 
 import com.board.domain.Person;
-import com.fastcampus.ch4.domain.*;
 import org.springframework.stereotype.*;
 import org.springframework.web.bind.annotation.*;
 

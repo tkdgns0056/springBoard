@@ -1,7 +1,6 @@
 package com.board.dao;
 
 import com.board.domain.User;
-import com.fastcampus.ch4.domain.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Repository;

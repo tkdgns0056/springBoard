@@ -1,7 +1,6 @@
 package com.board.dao;
 
 import com.board.domain.User;
-import com.fastcampus.ch4.domain.*;
 
 public interface UserDao {
     User selectUser(String id) throws Exception;

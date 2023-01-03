@@ -1,6 +1,5 @@
-package com.fastcampus.ch4.dao;
+package com.board.dao;
 
-import com.board.dao.CommentDao;
 import com.board.domain.CommentDto;
 import org.junit.*;
 import org.junit.runner.*;

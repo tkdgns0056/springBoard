@@ -1,6 +1,5 @@
-package com.fastcampus.ch4.dao;
+package com.board.dao;
 
-import com.board.dao.BoardDao;
 import com.board.domain.BoardDto;
 import com.board.domain.SearchCondition;
 import org.junit.*;
@@ -17,7 +16,8 @@ import static org.junit.Assert.*;
 @ContextConfiguration(locations = {"file:src/main/webapp/WEB-INF/spring/root-context.xml"})
 public class BoardDaoImplTest {
     @Autowired
-    private BoardDao boardDao;
+
+    private BoardDaoImpl boardDao;
 
     @Test
     public void searchResultCntTest() throws  Exception{

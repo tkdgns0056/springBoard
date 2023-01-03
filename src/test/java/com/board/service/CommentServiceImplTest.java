@@ -1,15 +1,15 @@
-package com.fastcampus.ch4.service;
+package com.board.service;
 
 import com.board.dao.BoardDao;
 import com.board.dao.CommentDao;
 import com.board.domain.BoardDto;
 import com.board.domain.CommentDto;
-import com.board.service.CommentService;
 import org.junit.*;
 import org.junit.runner.*;
 import org.springframework.beans.factory.annotation.*;
 import org.springframework.test.context.*;
 import org.springframework.test.context.junit4.*;
+
 
 import static org.junit.Assert.*;
 
